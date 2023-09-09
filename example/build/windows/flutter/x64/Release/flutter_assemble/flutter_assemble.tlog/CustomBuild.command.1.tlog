@@ -1,0 +1,28 @@
+^D:\PROJECTS\MY DM DESKTOP APP\TRAILER DESIGN APP\PACKAGERESTARTOS\EXAMPLE\BUILD\WINDOWS\CMAKEFILES\E45797039AFF9FD0D100D45B5C658C9C\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\Softwares\Flutter\SDK\flutter "PROJECT_DIR=D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example" FLUTTER_ROOT=D:\Softwares\Flutter\SDK\flutter "FLUTTER_EPHEMERAL_DIR=D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example\windows\flutter\ephemeral" "PROJECT_DIR=D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example" FLUTTER_TARGET=lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true "PACKAGE_CONFIG=D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example\.dart_tool\package_config.json" D:/Softwares/Flutter/SDK/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTS\MY DM DESKTOP APP\TRAILER DESIGN APP\PACKAGERESTARTOS\EXAMPLE\BUILD\WINDOWS\CMAKEFILES\1398D28628A432B707A5B25A8C089325\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTS\MY DM DESKTOP APP\TRAILER DESIGN APP\PACKAGERESTARTOS\EXAMPLE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/windows" "-BD:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows" --check-stamp-file "D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

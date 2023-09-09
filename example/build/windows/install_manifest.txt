@@ -1,0 +1,10 @@
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/icudtl.dat
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/flutter_windows.dll
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/flutter_assets/AssetManifest.bin
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/example/build/windows/runner/Release/data/app.so

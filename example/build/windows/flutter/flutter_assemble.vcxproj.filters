@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example\build\windows\CMakeFiles\e45797039aff9fd0d100d45b5c658c9c\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example\build\windows\CMakeFiles\1398d28628a432b707a5b25a8c089325\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projects\My DM Desktop App\Trailer Design App\packageRestartOs\example\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DD6D6B99-BF7C-32F6-9697-0B22FFD9FC3D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^D:\PROJECTS\MY DM DESKTOP APP\TRAILER DESIGN APP\PACKAGERESTARTOS\EXAMPLE\BUILD\WINDOWS\CMAKEFILES\74B9A8CB3803D98320E4A8FA51947BD2\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

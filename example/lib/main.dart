@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:restartatos/restartatos.dart';
+import 'package:restartfromos/restartfromos.dart';
 
 void main() {
   runApp(const MyApp());

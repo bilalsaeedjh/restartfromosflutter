@@ -5,60 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0377cac1-47b8-484a-9d28-32bee9ce3a12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/web/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/web/icons/Icon-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/web/icons/Icon-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/web/icons/Icon-maskable-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/web/icons/Icon-maskable-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restartatos/example/web/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restartatos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/restartatos/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/restartatos/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restartatos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/restartatos/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restartatos/lib/restartatos.dart" beforeDir="false" afterPath="$PROJECT_DIR$/restartatos/lib/restartatos.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restartatos/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/restartatos/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restartatos/test/restartatos_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/restartatos/test/restartatos_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restartatos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restartfromos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restartfromos/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/restartfromos/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restartfromos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/restartfromos/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restartfromos/lib/restartatos.dart" beforeDir="false" afterPath="$PROJECT_DIR$/restartfromos/lib/restartatos.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restartfromos/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/restartfromos/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restartfromos/test/restartatos_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/restartfromos/test/restartatos_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/restartatos" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,7 +40,7 @@
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "last_opened_file_path": "D:/Projects/My DM Desktop App/Trailer Design App/packageRestartOs/restartatos",
-    "settings.editor.selected.configurable": "flutter.settings",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -115,5 +70,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/restartatos" />
+    </ignored-roots>
   </component>
 </project>
